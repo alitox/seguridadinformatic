@@ -71,7 +71,7 @@ section{
 	background: white;
 	height: 310px;
 	float: left;
-    border-radius: 10px; 
+  border-radius: 10px; 
 }
 aside{
     
@@ -100,11 +100,11 @@ article{
 footer{
     position: relative; 
     width: 1000px;
-    height: 80px;
+    height: 150px;
     background: #005883;    
     clear: both;
     float: left;
-    margin-top: 50px;
+    margin-top: 60px;
     border-radius: 10px; 
 }
 
